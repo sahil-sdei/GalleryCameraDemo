@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/sahilsa/Downloads/GalleryCameraDemo/matisse/src/main/assets"/><source path="/home/sahilsa/Downloads/GalleryCameraDemo/matisse/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/sahilsa/Downloads/GalleryCameraDemo/matisse/src/debug/assets"/></dataSet></merger>
